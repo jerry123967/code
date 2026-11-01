@@ -45,26 +45,7 @@ return 0;
 }*/
          
            
-#include<stdio.h>
- int main()
- {
 
- int arr[7][2];
-int i,j; 
- for(i=0;i<7;i++)
- {
-  for(j=0;j<7;j++)
-  {
-
-   scanf("%d %d",&arr[i][j]);
-
-  }
-
- }
- printf("%d",arr[i][j]);
-
-
- }          
                       
            
            
